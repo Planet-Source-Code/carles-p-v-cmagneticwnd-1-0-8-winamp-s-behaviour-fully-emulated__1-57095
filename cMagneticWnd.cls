@@ -13,7 +13,7 @@ Attribute VB_PredeclaredId = False
 Attribute VB_Exposed = False
 '========================================================================================
 ' Class:         cMagneticWnd.cls
-' Author:        Carles P.V. - ©2004 (*)
+' Author:        Carles P.V. - Â©2004 (*)
 ' Dependencies:
 ' Last revision: 2004.11.30
 ' Version:       1.0.8
